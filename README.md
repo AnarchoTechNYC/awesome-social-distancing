@@ -31,6 +31,8 @@ Refer to the [§ Legend](#legend) for definitions of various symbols.
 * [Additional resources elsewhere](#additional-resources-elsewhere)
     * [Arts and entertainment](#arts-and-entertainment)
     * [Education and online learning](#education-and-online-learning)
+* [Regional initiatives](#regional-initiatives)
+    * [New York City regional initiatives](#new-york-city-regional-initiatives)
 * [Livestreaming](#livestreaming)
 * [Online event participation](#online-event-participation)
 * [Video conferencing](#video-conferencing)
@@ -38,6 +40,15 @@ Refer to the [§ Legend](#legend) for definitions of various symbols.
 * [Watch party software](#watch-party-software)
 
 # Additional resources elsewhere
+
+Related COVID-19/coronavirus pandemic resources; not social distancing specific.
+
+* [COVID-19 Mutual Aid & Advocacy Resources](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit) - Meta-compilation of additional general resources related to dealing with the coronavirus pandemic (not social distancing-specific).
+* [Coronavirus Resource Kit](https://docs.google.com/document/d/1Rcan4C_e6OBFBI5bUn7MtYK74Ab-WarxyJmDvZUI_YA/preview) - Collectivized document linking to many mutual aid projects and resources that appear online as they are discovered.
+* [Coronavirus Tech Handbook](https://docs.google.com/document/d/1wf9YFtLFM4LuNkDzbb4hGfZGvb6VnKzJ9iZ--8DpSAo/edit) - Crowdsourced resource for technologists building things related to the coronavirus outbreak.
+* [Database of Localized Resources During Corona Outbreak](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/htmlview) - Reference listing of numerous organized efforts such as relief funds, mutual aid networks, and other initiatives in response to COVID-19.
+* [NYC United Against Coronavirus - Resources and Information](https://docs.google.com/document/u/1/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/view) - Information and resources to help New Yorkers respond to the coronavirus, compiled and maintained by a list of city residents.
+* [Tech:NYC's COVID-19 Resource Guide § Tips + Tools for Remote Work](https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit#heading=h.3yff15n2xepc) - List of helpful tools for employers and employees who need to transition to remote work.
 
 ## Education and online learning
 
@@ -51,6 +62,15 @@ See also [*webinar software*](#webinar-software).
 See also [*livestreaming*](#livestreaming) and [*online event participation*](#online-event-participation).
 
 * [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
+
+# Regional initiatives
+
+## New York City regional initiatives
+
+* [Invisible Hands Deliver](https://www.invisiblehandsdeliver.com/) - Safe, free deliveries for NYC’s most at-risk community members facing COVID-19.
+* [NYC-DSA: COVID-19 Mutual Aid Response](https://docs.google.com/document/d/e/2PACX-1vTgSRxlXg-dc3qdHfU56zXX9BUVz1zFBz_MkcplxC4N7zHHvZQgfEqN2jeN9oR2FrkTq8Mv6gcaVm2u/pub) - Local resources organized in part by the NYC Democratic Socialists of America.
+* [Queer Food Share New York City](https://www.facebook.com/groups/1227453267304311) - Queer mutual aid network organizing volunteer deliveries of free or cheap food to those in need.
+* [The End is Queer](https://discordapp.com/invite/ekqcgUz) - Queer mutual aid network in NYC self-organizing to deliver supplies and provide support during this time.
 
 # Livestreaming
 
