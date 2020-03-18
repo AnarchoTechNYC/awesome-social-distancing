@@ -20,7 +20,7 @@ We also urge you to consider supporting efforts to provide relief from the impac
 
 ([Image credit](https://actionnetwork.org/petitions/a-pandemic-platform-for-the-people-of-richmond/).)
 
-> :warning: :shield: Most of these sources have *not* been vetted for security or privacy. Where available, look for a checkmark (✅) in the circle-A (Ⓐ) column for [Anarcho-Tech NYC](https://github.com/AnarchoTechNYC/meta/wiki)'s own recommendations.
+> :warning: :shield: Most of these sources have *not* been vetted for security or privacy. Where available, look for a checkmark (:white_check_mark:) in the circle-A (Ⓐ) column for [Anarcho-Tech NYC](https://github.com/AnarchoTechNYC/meta/wiki)'s own recommendations.
 >
 > :construction: :memo: This is a fast-evolving list and many categories of software overlap with one another; "livestreams" can be used to conduct "webinars," for example. We make little distinction between these categories for now other than doing our best to evaluate the primary intended purpose of the application from the software creator's perspective.
 
@@ -60,8 +60,9 @@ See also [*livestreaming*](#livestreaming) and [*online event participation*](#o
 
 See also [*webinar software*](#webinar-software).
 
-* [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
 * [Teaching Online Tools](https://docs.google.com/spreadsheets/d/1skxI8D70Ed34x6cjjVxCGzIZro64efQRTZXOdEt_7eg/view) - Resource directory for remote learning and virtual learning scenarios to help teachers find and choose appropriate tools during the COVID-19 coronavirus pandemic.
+* [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
+* [awsome-selfhosted § Learning and Courses](https://github.com/awesome-selfhosted/awesome-selfhosted#learning-and-courses) - List of self-hostable Learning Management System (LMS) software.
 
 # Livestreaming
 
@@ -69,16 +70,16 @@ Also known as *online broadcasting*.
 
 | Service | Ⓐ | Free? | Registration not required | Description |
 |-|:-:|:-:|:-:|-|
-| [Caffeine](https://www.caffeine.tv/) | ❌  | ❌ | ❌ | Livestream service provider offering in-stream options for producers to receive donations from viewers.
-| [Crowdcast](https://www.crowdcast.io/) | ❌ | ❌ | ❌ | Service powering the livestream feature in [Patreon](https://www.patreon.com/)'s mobile app, but can be used independently to use additional features such as webinars.
-| [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | ❌ | ✅ | ❌ | Livestream functionality from the (in)famous Facebook, Inc. corporation.
-| [Instagram Live](https://help.instagram.com/292478487812558) | ❌ | ✅ | ❌ | Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
-| [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) | ❌ | ✅ | ❌ | Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
-| [Livestream.com](https://livestream.com/) | ❌ | ❌ | ❌ | Commercial offering enabling organizations to stream video of events to an audience of thousands.
-| [Mixer](https://mixer.com/) | ❌ | ❓ | ❌ | Smaller livestream service prodiver with in-stream donation capabilities for producers.
-| [Periscope](https://www.periscope.tv/) | ❌ | ✅ | ❌ | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
-| [Twitch](https://www.twitch.tv/) | ❌ | ✅ | ❌ | Livestream app with a large established community of musicians and gamers.
-| [YouTube Live](https://www.youtube.com/live) | ❌ | ✅ | ❌ | Livestream functionality from the famous Google-owned YouTube web site.
+| [Caffeine](https://www.caffeine.tv/) | :x:  | :x: | :x: | Livestream service provider offering in-stream options for producers to receive donations from viewers.
+| [Crowdcast](https://www.crowdcast.io/) | :x: | :x: | :x: | Service powering the livestream feature in [Patreon](https://www.patreon.com/)'s mobile app, but can be used independently to use additional features such as webinars.
+| [Facebook Live](https://www.facebook.com/facebookmedia/solutions/facebook-live) | :x: | :white_check_mark: | :x: | Livestream functionality from the (in)famous Facebook, Inc. corporation.
+| [Instagram Live](https://help.instagram.com/292478487812558) | :x: | :white_check_mark: | :x: | Livestream functionality from the Facebook-owned Instagram photo sharing social media service.
+| [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) | :x: | :white_check_mark: | :x: | Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
+| [Livestream.com](https://livestream.com/) | :x: | :x: | :x: | Commercial offering enabling organizations to stream video of events to an audience of thousands.
+| [Mixer](https://mixer.com/) | :x: | :question: | :x: | Smaller livestream service prodiver with in-stream donation capabilities for producers.
+| [Periscope](https://www.periscope.tv/) | :x: | :white_check_mark: | :x: | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
+| [Twitch](https://www.twitch.tv/) | :x: | :white_check_mark: | :x: | Livestream app with a large established community of musicians and gamers.
+| [YouTube Live](https://www.youtube.com/live) | :x: | :white_check_mark: | :x: | Livestream functionality from the famous Google-owned YouTube web site.
 
 # Online event participation
 
@@ -86,8 +87,8 @@ Sometimes known as *event streaming*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
-| [Hovercast](https://www.hovercast.com/) | ❌ | ⭕️ | ❌ | ❓ | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
-| [Run The World](https://runtheworld.today/) | ❌ | ❌ | ❌ | ❓ | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
+| [Hovercast](https://www.hovercast.com/) | :x: | :o: | :x: | :question: | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
+| [Run The World](https://runtheworld.today/) | :x: | :x: | :x: | :question: | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
 
 # Regional initiatives
 
@@ -104,27 +105,27 @@ Also known as *vidchat*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
-| [EZTalks](https://www.eztalks.com/) | ❌ | ⭕️ | ❌ | Hundreds | Virtual business meeting software with a free tier.
-| [Google Hangouts](https://hangouts.google.com/) | ❌ | ✅ | ❌ | Multiple | Free digital video conferencing service hosted by Google.
-| [Jitsi](https://meet.jit.si/) | ✅ | ✅ | ✅ | ~10 | Self-hostable, free and open source software video conferecing system.
-| [Signal Private Messenger](https://signal.org/) | ✅ | ✅ | ❌ | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
-| [Zoom](https://zoom.us/) | ❌ | ❌ | ❌ | Hundreds | Commercial digital video conferencing service built for companies.
+| [Google Hangouts](https://hangouts.google.com/) | :x: | :white_check_mark: | :x: | Multiple | Free digital video conferencing service hosted by Google.
+| [Jitsi](https://meet.jit.si/) | :white_check_mark: | ✅ | ✅ | ~10 | Self-hostable, free and open source software video conferecing system.
+| [Signal Private Messenger](https://signal.org/) | :white_check_mark: | ✅ | :x: | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
+| [Zoom](https://zoom.us/) | :x: | :x: | :x: | Hundreds | Commercial digital video conferencing service built for companies.
+| [ezTalks](https://www.eztalks.com/) | :x: | :o: | :x: | Hundreds | Virtual business meeting software with a free tier.
 # Voice conferencing
 
 Also known as *voice chat*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
-| [Discord](https://discordapp.com/) | ❌ | ✅ | ❌ | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
+| [Discord](https://discordapp.com/) | :x: | :white_check_mark: | :x: | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
 
 # Webinar software
 
-Many [video conferencing](#video-conferencing) software shares webinar-like features, such as screen-sharing or shared slideshow (Microsoft PowerPoint, LibreOffice Impress) presentations.
+See also [awesome-selfhosted § Conference Management](https://github.com/awesome-selfhosted/awesome-selfhosted#conference-management). Many [video conferencing](#video-conferencing) software shares webinar-like features, such as screen-sharing or shared slideshow (Microsoft PowerPoint, LibreOffice Impress) presentations.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
-| [BigMarker](https://www.bigmarker.com/) | ❌ | ❌ | ❌ | ❓ | Webinar software built for large (and virtual) events such as conferences, digital training, and more.
-| [GoBrunch](https://gobrunch.com/) | ❌ | ✅ | ❌ | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
+| [BigMarker](https://www.bigmarker.com/) | :x: | :x: | :x: | :question: | Webinar software built for large (and virtual) events such as conferences, digital training, and more.
+| [GoBrunch](https://gobrunch.com/) | :x: | :white_check_mark: | :x: | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
 # Watch party software
 
@@ -138,7 +139,7 @@ Also known as *video synchronization*.
 
 # Legend
 
-* ❌ : *No* or *not availabe*.
-* ⭕️ : *Limited* or *restricted prior to payment*.
-* ✅ : *Yes* or *available*.
-* ❓ : *Unknown*; please contribute.
+* :x: : *No* or *not availabe*.
+* :o: : *Limited* or *restricted prior to payment*.
+* :white_check_mark: : *Yes* or *available*.
+* :question: : *Unknown*; please contribute.
