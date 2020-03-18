@@ -31,10 +31,10 @@ Refer to the [§ Legend](#legend) for definitions of various symbols.
 * [Additional resources elsewhere](#additional-resources-elsewhere)
     * [Arts and entertainment](#arts-and-entertainment)
     * [Education and online learning](#education-and-online-learning)
-* [Regional initiatives](#regional-initiatives)
-    * [New York City regional initiatives](#new-york-city-regional-initiatives)
 * [Livestreaming](#livestreaming)
 * [Online event participation](#online-event-participation)
+* [Regional initiatives](#regional-initiatives)
+    * [New York City regional initiatives](#new-york-city-regional-initiatives)
 * [Video conferencing](#video-conferencing)
 * [Webinar software](#webinar-software)
 * [Watch party software](#watch-party-software)
@@ -63,15 +63,6 @@ See also [*webinar software*](#webinar-software).
 * [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
 * [Teaching Online Tools](https://docs.google.com/spreadsheets/d/1skxI8D70Ed34x6cjjVxCGzIZro64efQRTZXOdEt_7eg/view) - Resource directory for remote learning and virtual learning scenarios to help teachers find and choose appropriate tools during the COVID-19 coronavirus pandemic.
 
-# Regional initiatives
-
-## New York City regional initiatives
-
-* [Invisible Hands Deliver](https://www.invisiblehandsdeliver.com/) - Safe, free deliveries for NYC’s most at-risk community members facing COVID-19.
-* [NYC-DSA: COVID-19 Mutual Aid Response](https://docs.google.com/document/d/e/2PACX-1vTgSRxlXg-dc3qdHfU56zXX9BUVz1zFBz_MkcplxC4N7zHHvZQgfEqN2jeN9oR2FrkTq8Mv6gcaVm2u/pub) - Local resources organized in part by the NYC Democratic Socialists of America.
-* [Queer Food Share New York City](https://www.facebook.com/groups/1227453267304311) - Queer mutual aid network organizing volunteer deliveries of free or cheap food to those in need.
-* [The End is Queer](https://discordapp.com/invite/ekqcgUz) - Queer mutual aid network in NYC self-organizing to deliver supplies and provide support during this time.
-
 # Livestreaming
 
 Also known as *online broadcasting*.
@@ -97,6 +88,15 @@ Sometimes known as *event streaming*.
 |-|:-:|:-:|:-:|-|-|
 | [Hovercast](https://www.hovercast.com/) | ❌ | ⭕️ | ❌ | ❓ | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
 | [Run The World](https://runtheworld.today/) | ❌ | ❌ | ❌ | ❓ | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
+
+# Regional initiatives
+
+## New York City regional initiatives
+
+* [Invisible Hands Deliver](https://www.invisiblehandsdeliver.com/) - Safe, free deliveries for NYC’s most at-risk community members facing COVID-19.
+* [NYC-DSA: COVID-19 Mutual Aid Response](https://docs.google.com/document/d/e/2PACX-1vTgSRxlXg-dc3qdHfU56zXX9BUVz1zFBz_MkcplxC4N7zHHvZQgfEqN2jeN9oR2FrkTq8Mv6gcaVm2u/pub) - Local resources organized in part by the NYC Democratic Socialists of America.
+* [Queer Food Share New York City](https://www.facebook.com/groups/1227453267304311) - Queer mutual aid network organizing volunteer deliveries of free or cheap food to those in need.
+* [The End is Queer](https://discordapp.com/invite/ekqcgUz) - Queer mutual aid network in NYC self-organizing to deliver supplies and provide support during this time.
 
 # Video conferencing
 
