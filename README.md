@@ -50,18 +50,18 @@ Related COVID-19/coronavirus pandemic resources; not social distancing specific.
 * [NYC United Against Coronavirus - Resources and Information](https://docs.google.com/document/u/1/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/view) - Information and resources to help New Yorkers respond to the coronavirus, compiled and maintained by a list of city residents.
 * [Tech:NYC's COVID-19 Resource Guide § Tips + Tools for Remote Work](https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit#heading=h.3yff15n2xepc) - List of helpful tools for employers and employees who need to transition to remote work.
 
+## Arts and entertainment
+
+See also [*livestreaming*](#livestreaming) and [*online event participation*](#online-event-participation).
+
+* [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
+
 ## Education and online learning
 
 See also [*webinar software*](#webinar-software).
 
 * [Teaching in the context of COVID-19](https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/preview) - List of additional resources for teachers struggling to adapt to remote learning and the needs of students in the cotext of a pandemic.
 * [Teaching Online Tools](https://docs.google.com/spreadsheets/d/1skxI8D70Ed34x6cjjVxCGzIZro64efQRTZXOdEt_7eg/view) - Resource directory for remote learning and virtual learning scenarios to help teachers find and choose appropriate tools during the COVID-19 coronavirus pandemic.
-
-## Arts and entertainment
-
-See also [*livestreaming*](#livestreaming) and [*online event participation*](#online-event-participation).
-
-* [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
 
 # Regional initiatives
 
