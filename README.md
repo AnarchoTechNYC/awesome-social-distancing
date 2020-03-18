@@ -39,8 +39,6 @@ Refer to the [§ Legend](#legend) for definitions of various symbols.
 
 # Additional resources elsewhere
 
-If you are maintaining your own similar list and would like to be included here, please [post a new thread here](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new).
-
 ## Education and online learning
 
 See also [*webinar software*](#webinar-software).
@@ -123,4 +121,4 @@ Also known as *video synchronization*.
 * ❌ : *No* or *not availabe*.
 * ⭕️ : *Limited* or *restricted prior to payment*.
 * ✅ : *Yes* or *available*.
-* ❓ : *Unknown*; please inform us by [posting here](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new).
+* ❓ : *Unknown*; please contribute.
