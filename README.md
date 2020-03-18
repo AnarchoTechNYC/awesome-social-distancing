@@ -1,10 +1,14 @@
 # Awesome Social Distancing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-During the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people are asking us for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations.
+> Collection of awesome resources, tools, and initiatives to alleviate loneliness, isolation, and other burdens imposed by "social distancing" measures.
 
-With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we've decided to compile a list of digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis. Refer to the [§ Legend](#legend) for definitions of various symbols.
+[Social distancing](https://istayhome-info.now.sh/) is a strategy used to slow or contain a contagious infection. When imposed by public health officials, the public is urged to reduce or eliminate physical contact with other people. This list offers pointers to digital tools, services, or platforms that can be used in lieu of physical contact to maintain social, economic, and other connections with other people during such times.
 
-**Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new). ([[Learn how|New-member-orientation-guide#github]].) We also urge you to consider supporting any and all organizing efforts to provide relief from the impacts of this situation and simultaneously improve conditions for all people by taking measures to, for example:
+For context, during the [(COVID-19) coronavirus pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic), many people started asking for our recommendations of digital tools to support their community's emotional and mental health. Isolation, loneliness, and lack of intimate contact can dramatically reduce the quality of life for already vulnerable populations. With stress levels high, and public officials warning of extended periods of [social distancing](https://en.wikipedia.org/wiki/Social_distancing) measures necessary for many months to come, we decided to compile a list of digital platforms that you might be able to use to augment your social interactions to stay as healthy and happy as possible throughout the crisis.
+
+**Please contribute** as you are able by [posting a new issue on our issue tracker](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new).
+
+We also urge you to consider supporting efforts to provide relief from the impacts of this situation and simultaneously improve conditions for all people by taking measures to, for example:
 
 * **End reliance on health insurance for access to medical care.** This pandemic is a perfect showcase why a medical system built for-profit is a dangerous detriment to the health of everyone, including insured people.
 * **End reliance on employment for healthcare and income.** Suspend all employment obligations and provide free healthcare, sick leave, and food (stamps/SNAP/universal basic income) for all.
@@ -16,11 +20,13 @@ With stress levels high, and public officials warning of extended periods of [so
 
 ([Image credit](https://actionnetwork.org/petitions/a-pandemic-platform-for-the-people-of-richmond/).)
 
-> :warning: :shield: Most of these sources have *not* been vetted for security or privacy. Where available, look for a checkmark (✅) in the circle-A (Ⓐ) column for Anarcho-Tech NYC's own recommendations.
+> :warning: :shield: Most of these sources have *not* been vetted for security or privacy. Where available, look for a checkmark (✅) in the circle-A (Ⓐ) column for [Anarcho-Tech NYC](https://github.com/AnarchoTechNYC/meta/wiki)'s own recommendations.
 >
 > :construction: :memo: This is a fast-evolving list and many categories of software overlap with one another; "livestreams" can be used to conduct "webinars," for example. We make little distinction between these categories for now other than doing our best to evaluate the primary intended purpose of the application from the software creator's perspective.
 
 # Contents
+
+Refer to the [§ Legend](#legend) for definitions of various symbols.
 
 * [Additional resources elsewhere](#additional-resources-elsewhere)
     * [Arts and entertainment](#arts-and-entertainment)
@@ -33,7 +39,7 @@ With stress levels high, and public officials warning of extended periods of [so
 
 # Additional resources elsewhere
 
-If you are maintaining your own similar list and would like to be included here, please [post a new thread here](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new). ([[Learn how|New-member-orientation-guide#github]].)
+If you are maintaining your own similar list and would like to be included here, please [post a new thread here](https://github.com/AnarchoTechNYC/awesome-social-distancing/issues/new).
 
 ## Education and online learning
 
