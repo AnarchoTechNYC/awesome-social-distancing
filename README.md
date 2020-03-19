@@ -97,7 +97,7 @@ Sometimes known as *event streaming*.
 * [Invisible Hands Deliver](https://www.invisiblehandsdeliver.com/) - Safe, free deliveries for NYC’s most at-risk community members facing COVID-19.
 * [NYC-DSA: COVID-19 Mutual Aid Response](https://docs.google.com/document/d/e/2PACX-1vTgSRxlXg-dc3qdHfU56zXX9BUVz1zFBz_MkcplxC4N7zHHvZQgfEqN2jeN9oR2FrkTq8Mv6gcaVm2u/pub) - Local resources organized in part by the NYC Democratic Socialists of America.
 * [Queer Food Share New York City](https://www.facebook.com/groups/1227453267304311) - Queer mutual aid network organizing volunteer deliveries of free or cheap food to those in need.
-* [The End is Queer](https://discordapp.com/invite/ekqcgUz) - Queer mutual aid network in NYC self-organizing to deliver supplies and provide support during this time.
+* [The End is Queer](https://discordapp.com/invite/ekqcgUz) - Queer mutual aid network in NYC headquarted on Discord self-organizing to deliver supplies and provide support during this time. ([Facebook](https://www.facebook.com/groups/218921919226857/))
 
 # Video conferencing
 
