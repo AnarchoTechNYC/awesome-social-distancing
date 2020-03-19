@@ -106,8 +106,8 @@ Also known as *vidchat*.
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [Google Hangouts](https://hangouts.google.com/) | :x: | :white_check_mark: | :x: | Multiple | Free digital video conferencing service hosted by Google.
-| [Jitsi](https://meet.jit.si/) | :white_check_mark: | ✅ | ✅ | ~10 | Self-hostable, free and open source software video conferecing system.
-| [Signal Private Messenger](https://signal.org/) | :white_check_mark: | ✅ | :x: | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
+| [Jitsi](https://meet.jit.si/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | ~10 | Self-hostable, free and open source software video conferecing system.
+| [Signal Private Messenger](https://signal.org/) | :white_check_mark: | :white_check_mark: | :x: | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
 | [Zoom](https://zoom.us/) | :x: | :x: | :x: | Hundreds | Commercial digital video conferencing service built for companies.
 | [ezTalks](https://www.eztalks.com/) | :x: | :o: | :x: | Hundreds | Virtual business meeting software with a free tier.
 # Voice conferencing
