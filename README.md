@@ -47,7 +47,8 @@ Related COVID-19/coronavirus pandemic resources; not social distancing specific.
 * [Coronavirus Resource Kit](https://docs.google.com/document/d/1Rcan4C_e6OBFBI5bUn7MtYK74Ab-WarxyJmDvZUI_YA/preview) - Collectivized document linking to many mutual aid projects and resources that appear online as they are discovered.
 * [Coronavirus Tech Handbook](https://docs.google.com/document/d/1wf9YFtLFM4LuNkDzbb4hGfZGvb6VnKzJ9iZ--8DpSAo/edit) - Crowdsourced resource for technologists building things related to the coronavirus outbreak.
 * [Database of Localized Resources During Corona Outbreak](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/htmlview) - Reference listing of numerous organized efforts such as relief funds, mutual aid networks, and other initiatives in response to COVID-19.
-* [NYC United Against Coronavirus - Resources and Information](https://docs.google.com/document/u/1/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/view) - Information and resources to help New Yorkers respond to the coronavirus, compiled and maintained by a list of city residents.
+* [Mutual Aid NYC](http://mutualaid.nyc/) - Everyday New Yorkers working to lift up local organizing, connect people to resources, and build a citywide movement to address this crisis.
+* [NYC United Against Coronavirus - Resources and Information](https://docs.google.com/document/u/1/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/view) - Information and resources to help New Yorkers respond to the coronavirus, compiled and maintained by a city residents. ([Facebook](https://www.facebook.com/groups/nyccoronavirus/))
 * [Tech:NYC's COVID-19 Resource Guide § Tips + Tools for Remote Work](https://docs.google.com/document/d/12KbEKMrLrZf-nUvuHoFtLPHAARIDEc7kcWTUwBnI8dw/edit#heading=h.3yff15n2xepc) - List of helpful tools for employers and employees who need to transition to remote work.
 
 ## Arts and entertainment
