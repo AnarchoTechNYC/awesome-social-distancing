@@ -128,7 +128,7 @@ See also [awesome-selfhosted § Conference Management](https://github.com/awesom
 |-|:-:|:-:|:-:|-|-|
 | [BigBlueButton](https://bigbluebutton.org/) | :heavy_check_mark: | :o: | :heavy_check_mark: | Installation-dependant | Self-hostable software suite offering real-time sharing of audio, video, slides (with whiteboard controls), chat, and the screen, built for integration with Free Software LMS and CMS systems. |
 | [BigMarker](https://www.bigmarker.com/) | :x: | :x: | :x: | :question: | Webinar software built for large (and virtual) events such as conferences, digital training, and more.
-| [GoBrunch](https://gobrunch.com/) | :x: | :heavy_check_mark: | :x: | Hundreds | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
+| [GoBrunch](https://gobrunch.com/) | :x: | :heavy_check_mark: | :x: | 409 | In-browser, free webinar hosting platform with the ability to record audio and video streams for replay later.
 
 # Watch party software
 
