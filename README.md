@@ -45,6 +45,7 @@ Related COVID-19/coronavirus pandemic resources; not social distancing specific.
 
 * [COVID-19 Mutual Aid & Advocacy Resources](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/edit) - Meta-compilation of additional general resources related to dealing with the coronavirus pandemic (not social distancing-specific).
 * [Collective Care is Our Best Weapon Against COVID-19](https://docs.google.com/document/d/1uP49OQGhosfBN4BOYQvyy_Mu3mpCSOYzip13LksC-S8/view) - Compilation of mutual aid and disaster relief efforts organized by geographic region.
+* [CoronaTracker](https://coronatracker.com/) - Independent news portal and data-driven dashboard vetted and curated by volunteer professional journalists showing up-to-the-minute information about the COVID-19 pandemic and the global response to it.
 * [Coronavirus Resource Kit](https://docs.google.com/document/d/1Rcan4C_e6OBFBI5bUn7MtYK74Ab-WarxyJmDvZUI_YA/preview) - Collectivized document linking to many mutual aid projects and resources that appear online as they are discovered.
 * [Coronavirus Tech Handbook](https://docs.google.com/document/d/1wf9YFtLFM4LuNkDzbb4hGfZGvb6VnKzJ9iZ--8DpSAo/edit) - Crowdsourced resource for technologists building things related to the coronavirus outbreak.
 * [Database of Localized Resources During Corona Outbreak](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/htmlview) - Reference listing of numerous organized efforts such as relief funds, mutual aid networks, and other initiatives in response to COVID-19.
