@@ -57,6 +57,8 @@ Related COVID-19/coronavirus pandemic resources; not social distancing specific.
 
 See also [*livestreaming*](#livestreaming) and [*online event participation*](#online-event-participation).
 
+* [Stay at Home](https://www.stayathomefest.com/) - Online music festival and events calendar.
+* [Stay at Home Festival](https://www.stayhomefestival.org/) - World's first 24/7 online festival with participants from over twelve countries.
 * [Virtual Music Events Directory](https://docs.google.com/document/d/11wWL_7I4BG76t0V2kw1a4yIeWxUSfGwMQFYdUWAgSnA/view) - Comprehensive, up-to-date resource for anyone seeking guidance on how to stage alternative music events in this moment of significant upheaval for the industry.
 
 ## Education and online learning
