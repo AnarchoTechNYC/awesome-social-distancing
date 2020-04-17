@@ -115,6 +115,7 @@ Also known as *vidchat*.
 | [Signal Private Messenger](https://signal.org/) | :heavy_check_mark: | :heavy_check_mark: | :x: | 2 | Free, highly secure Skype-like one-to-one voice and video conferencing for Android and Apple iOS (iPhone/iPad) devices.
 | [Zoom](https://zoom.us/) | :x: | :x: | :x: | Hundreds | Commercial digital video conferencing service built for companies. Free offering limits meetings to 40 minutes.
 | [ezTalks](https://www.eztalks.com/) | :x: | :o: | :x: | Hundreds | Virtual business meeting software with a free tier.
+
 # Voice conferencing
 
 Also known as *voice chat*.
@@ -122,6 +123,7 @@ Also known as *voice chat*.
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
 | [Discord](https://discordapp.com/) | :x: | :heavy_check_mark: | :x: | Dozens | Free voice (and text) chat service popular with gamers of various kinds.
+| [Mumble](https://www.mumble.com/) | :heavy_check_mark: | :o: | :x: | Installation dependent | Free and open source self-hostable voice chat software. Numerous [public Mumble servers](https://www.mumble.com/serverlist/) exist as well.
 
 # Webinar software
 
