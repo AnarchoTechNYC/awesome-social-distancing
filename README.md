@@ -84,6 +84,7 @@ Also known as *online broadcasting*.
 | [LinkedIn Live](https://www.linkedin.com/help/linkedin/answer/100225/getting-started-with-linkedin-live) | :x: | :heavy_check_mark: | :x: | Livestream functionality offered by the LinkedIn social network "for (employed) professionals."
 | [Livestream.com](https://livestream.com/) | :x: | :x: | :x: | Commercial offering enabling organizations to stream video of events to an audience of thousands.
 | [Mixer](https://mixer.com/) | :x: | :question: | :x: | Smaller livestream service prodiver with in-stream donation capabilities for producers.
+| [OBS Ninja](https://obs.nina/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Free and open source, Web-based video streaming tool for producing real-time live shows with [OBS Studio](https://obsproject.com/) (or other compatible software) by brining in remote sources, turn smartphones into wireless webcams, add VirtualCam software, and more.
 | [Periscope](https://www.periscope.tv/) | :x: | :heavy_check_mark: | :x: | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
 | [Twitch](https://www.twitch.tv/) | :x: | :heavy_check_mark: | :x: | Livestream app with a large established community of musicians and gamers.
 | [YouTube Live](https://www.youtube.com/live) | :x: | :heavy_check_mark: | :x: | Livestream functionality from the famous Google-owned YouTube web site.
@@ -94,7 +95,9 @@ Sometimes known as *event streaming*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
+| [Gather](https://gather.town/) | :x: | :o: | :x: | 25 in Free tier | Platform offering a customizable virtual world experience tailored for events like classrooms, conferences, or large offices where visitors move an avatar and can connect to video/audio of others' nearby avatars.
 | [Hovercast](https://www.hovercast.com/) | :x: | :o: | :x: | :question: | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
+| [Mozilla Hubs](https://hubs.mozilla.com/) | :heavy_check_mark: | :heavy_check_mark: | :o: | ~15 | Share a virtual room with friends where you can watch videos, play with 3D objects, or just hang out.
 | [Run The World](https://runtheworld.today/) | :x: | :x: | :x: | :question: | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
 
 # Regional initiatives
