@@ -85,7 +85,6 @@ Also known as *online broadcasting*.
 | [Livestream.com](https://livestream.com/) | :x: | :x: | :x: | Commercial offering enabling organizations to stream video of events to an audience of thousands.
 | [Mixer](https://mixer.com/) | :x: | :question: | :x: | Smaller livestream service prodiver with in-stream donation capabilities for producers.
 | [OBS Ninja](https://obs.ninja/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Free and open source, Web-based video streaming tool for producing real-time live shows with [OBS Studio](https://obsproject.com/) (or other compatible software) by brining in remote sources, turn smartphones into wireless webcams, add VirtualCam software, and more.
-| [Periscope](https://www.periscope.tv/) | :x: | :heavy_check_mark: | :x: | Livestream functionality from the Twitter, Inc. wholly-owned subsidiary.
 | [Twitch](https://www.twitch.tv/) | :x: | :heavy_check_mark: | :x: | Livestream app with a large established community of musicians and gamers.
 | [YouTube Live](https://www.youtube.com/live) | :x: | :heavy_check_mark: | :x: | Livestream functionality from the famous Google-owned YouTube web site.
 
