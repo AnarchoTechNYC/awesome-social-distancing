@@ -116,7 +116,7 @@ Also known as *vidchat*.
 |-|:-:|:-:|:-:|-|-|
 | [Google Hangouts](https://hangouts.google.com/) | :x: | :heavy_check_mark: | :x: | 25 | Free digital video conferencing service hosted by Google. (GSuite Enterprise customers can hold videoconference meetings with up to 250 participants.)
 | [Jitsi Meet](https://meet.jit.si/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | ~10 | Self-hostable, free and open source software video conferecing system. [List of Jitsi Meet instances](https://framatalk.org/accueil/en/info).
-| [Signal Private Messenger](https://signal.org/) | :heavy_check_mark: | :heavy_check_mark: | :x: | 5 | Free, highly secure Skype-like one-to-one and group voice and video conferencing available for all major mobile and desktop platforms.
+| [Signal Private Messenger](https://signal.org/) | :heavy_check_mark: | :heavy_check_mark: | :x: | 8 | Free, highly secure Skype-like one-to-one and group voice and video conferencing available for all major mobile and desktop platforms.
 | [Zoom](https://zoom.us/) | :x: | :x: | :x: | Hundreds | Commercial digital video conferencing service built for companies. Free offering limits meetings to 40 minutes.
 | [ezTalks](https://www.eztalks.com/) | :x: | :o: | :x: | Hundreds | Virtual business meeting software with a free tier.
 
