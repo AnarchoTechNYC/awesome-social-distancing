@@ -89,7 +89,7 @@ Also known as *online broadcasting*.
 
 # Online event participation
 
-Sometimes known as *event streaming*.
+Sometimes known as *event streaming*, *virtual worlds*, or *virtual office*.
 
 | Service | Ⓐ | Free? | Registration not required | Participant limit | Description |
 |-|:-:|:-:|:-:|-|-|
