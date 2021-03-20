@@ -97,6 +97,7 @@ Sometimes known as *event streaming*.
 | [Hovercast](https://www.hovercast.com/) | :x: | :o: | :x: | :question: | Made for entertainers who want to offer participatory features to an online audience. Usually paid, but currently [offering free software licenses to independent artists and small businesses impacted by the coronavirus pandemic](https://www.hovercast.com/free-virtual-events/).
 | [Mozilla Hubs](https://hubs.mozilla.com/) | :heavy_check_mark: | :heavy_check_mark: | :o: | ~15 | Share a virtual room with friends where you can watch videos, play with 3D objects, or just hang out.
 | [Run The World](https://runtheworld.today/) | :x: | :x: | :x: | :question: | Online event platform made for larger conferences or events with online components. They are [waiving set-up fees for producers whose events are impacted by the coronavirus pandemic](https://runtheworld.today/coronavirus.html).
+| [WorkAdventure](https://workadventu.re/) | :heavy_check_mark: | :o: | :x: | 25 in Free tier | Free software and self-hostable virtual workspace presented as a 16-bit Role Playing Game (RPG) map environment built for small- to medium-sized group collaboration.
 
 # Regional initiatives
 
